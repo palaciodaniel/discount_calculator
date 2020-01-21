@@ -1,6 +1,9 @@
 # discount-calculator
 A useful function to automatically apply discounts to prices.
-![alt text](https://images.unsplash.com/photo-1531303435785-3853ba035cda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+
+<p align="center"> 
+<img src="https://images.unsplash.com/photo-1531303435785-3853ba035cda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width="500">
+</p>
 
 ## Instructions
 Simply look for any online Python shell and copy the contents of the .py file there. Then execute it.
