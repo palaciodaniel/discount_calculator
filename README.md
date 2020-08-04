@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/palaciodaniel/discount-calculator.svg?branch=master)](https://travis-ci.com/palaciodaniel/discount-calculator)
 [![codecov](https://codecov.io/gh/palaciodaniel/discount-calculator/branch/master/graph/badge.svg)](https://codecov.io/gh/palaciodaniel/discount-calculator)
 
 # Discount Calculator
