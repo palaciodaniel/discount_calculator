@@ -11,6 +11,6 @@ If you want to try it, you can simply import the file discount_calculator_2.py t
 Obviously, if you want to Unit Test it, you'll need to download the pytest library.
 
 ## Credits
-Code written by **Daniel Palacio**.
+Code written from scratch by **Daniel Palacio**.
 
 Sale image by **Claudio Schwarz** - *Unsplash.com* - (https://unsplash.com/photos/zKT64MtVKQ0)
