@@ -1,5 +1,5 @@
 import pytest
-from discount_calculator_2 import discount_calc
+from src.discount_calculator_2 import discount_calc
 
 class TestDiscountCalc(object):
 
