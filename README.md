@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/palaciodaniel/discount-calculator.svg?branch=master)](https://travis-ci.com/palaciodaniel/discount-calculator)
+
 # Discount Calculator
 This is a small function written in Python to apply discounts to prices. It was done for demonstrative purposes, to showcase my current knowledge of Unit Testing using the pytest library.
 
