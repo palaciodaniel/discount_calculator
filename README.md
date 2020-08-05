@@ -9,9 +9,7 @@ This is a small function written in Python to apply discounts to prices. It was 
 </p>
 
 ## Instructions
-If you want to try it, you can simply import the file discount_calculator_2.py to your current Python shell environment. The function has a docstring attached to consult how to input the required arguments.
-
-Obviously, if you want to Unit Test it, you'll need to download the pytest library.
+It's pretty straightforward. Press Code (green button) and download the zip. Open the file discount_calculator_input.ipynb using a Jupyter Notebook and follow instructions there. 
 
 ## Credits
 Code written from scratch by **Daniel Palacio**.
