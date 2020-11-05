@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/palaciodaniel/discount_calculator.svg?branch=master)](https://travis-ci.com/palaciodaniel/discount_calculator)
 [![codecov](https://codecov.io/gh/palaciodaniel/discount_calculator/branch/master/graph/badge.svg)](https://codecov.io/gh/palaciodaniel/discount_calculator)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palaciodaniel/discount_calculator/master?filepath=discount_calculator_input.ipynb)
 
 # Discount Calculator
 This is a small function written in Python to apply discounts to prices. It was done for demonstrative purposes, to showcase my current knowledge of Unit Testing using the pytest library.
